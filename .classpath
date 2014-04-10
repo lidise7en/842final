@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/bcprov-jdk15-145.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/cglib-2.1_3-src.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/derby-10.5.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/h2-1.2.127.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/jmock-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/jmock-junit3-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/jmock-junit4-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/jmock-legacy-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/jxta-jxse-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/netty-3.1.5.GA.jar"/>
+	<classpathentry kind="lib" path="/Users/chinalidi/Documents/14spring/18842/842final/lib/org.mortbay.jetty.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
